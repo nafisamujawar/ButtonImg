@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ButtonImg</string>
+    <string-array name="Food">
+        <item>Chicken Biryani</item>
+        <item>Mutton biryani</item>
+        <item>Chicken Kabab</item>
+        <item>Chicken 65</item>
+    </string-array>
+</resources>
